@@ -1,1 +1,2 @@
-https://hub.gke2.mybinder.org/user/byte5169-dogs_breed_repo-dvxyj34g/voila/render/dogs_breed_bing_experement.ipynb?token=V6xcjlWmRC-DYj_1wcOCHg
+https://mybinder.org/v2/gh/byte5169/dogs_breed_repo/HEAD?urlpath=%2Fvoila%2Frender%2Fdogs_breed_standford.ipynb
+

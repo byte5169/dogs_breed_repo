@@ -7,5 +7,5 @@ For model training [fastai](https://pypi.org/project/fastai/) was used.
 Model resnet18, fine_tune(4).
 
 
-[Press to launch server](https://mybinder.org/v2/gh/byte5169/dogs_breed_repo/HEAD?urlpath=%2Fvoila%2Frender%2Fdogs_breed_standford.ipynb)
+[Press to see the app](https://share.streamlit.io/byte5169/dogs_breed_repo/main/stream_app.py)
 

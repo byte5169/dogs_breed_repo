@@ -3,12 +3,7 @@ from fastai.vision.all import *
 from fastai.vision.widgets import *
 from PIL import Image
 
-import pathlib
-temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
-
-path = Path()
-learn_inf = load_learner(path/'dogs_breed_standford.pkl', cpu=True)
+learn_inf = load_learner('dogs_breed_standford.pkl', cpu=True)
 header = Image.open('logo.jpg')
 
 st.image(header, use_column_width=True)

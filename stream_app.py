@@ -6,7 +6,7 @@ from io import BytesIO
 
 st.set_page_config(layout="centered")
 path = Path()
-learn_inf = load_learner('dogs_breed_standford.pkl', cpu=True)
+learn_inf = load_learner('models/dogs_breed_standford_V2_20_01.pkl', cpu=True)
 header = Image.open('logo.jpg')
 
 st.image(header, use_column_width=True)
